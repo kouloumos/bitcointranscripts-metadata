@@ -1,0 +1,32 @@
+{
+    "type": "audio",
+    "loc": "bitcoin-explained/bitcoin-explained",
+    "source_file": "https://bitcoinexplainedpodcast.com/audio/@nado/episode-94-silent-payments-part-2.mp3",
+    "media": "https://bitcoinexplainedpodcast.com/@nado/episodes/episode-94-silent-payments-part-2",
+    "title": "Silent Payments part 2",
+    "categories": [],
+    "tags": [
+        "silent-payments"
+    ],
+    "speakers": [
+        "Ruben Somsen"
+    ],
+    "description": null,
+    "chapters": [],
+    "date": "2024-07-07",
+    "summary": "In this episode of Bitcoin, Explained, Aaron and Sjors welcome Ruben Somsen and Josie to the show to discuss BIP 352, their now-finalized Bitcoin Improvement Proposal for Silent Payments.",
+    "additional_resources": [
+        {
+            "title": "https://bitcoinexplainedpodcast.com/",
+            "url": "https://bitcoinexplainedpodcast.com/"
+        }
+    ],
+    "episode": 94,
+    "deepgram_chunks": [
+        "deepgram_chunk_1_of_4_2024-08-22T131336Z.json",
+        "deepgram_chunk_2_of_4_2024-08-22T131430Z.json",
+        "deepgram_chunk_3_of_4_2024-08-22T131546Z.json",
+        "deepgram_chunk_4_of_4_2024-08-22T131746Z.json"
+    ],
+    "deepgram_output": "deepgram_2024-08-22T131747Z.json"
+}

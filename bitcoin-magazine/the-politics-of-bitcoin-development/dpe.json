@@ -115,451 +115,376 @@
             "text": "am."
         },
         {
-            "id": 19,
             "start": 8.4,
             "end": 8.9,
             "text": "So"
         },
         {
-            "id": 20,
             "start": 10.24,
             "end": 10.639999,
             "text": "Rusty"
         },
         {
-            "id": 21,
             "start": 10.639999,
             "end": 11.139999,
             "text": "dropped"
         },
         {
-            "id": 22,
             "start": 11.32,
             "end": 11.5,
             "text": "an"
         },
         {
-            "id": 23,
             "start": 11.5,
             "end": 11.84,
             "text": "atom"
         },
         {
-            "id": 24,
             "start": 11.84,
             "end": 12.179999,
             "text": "bomb"
         },
         {
-            "id": 25,
             "start": 12.179999,
             "end": 12.679999,
             "text": "yesterday"
         },
         {
-            "id": 26,
             "start": 12.98,
             "end": 13.219999,
             "text": "with"
         },
         {
-            "id": 27,
             "start": 13.219999,
             "end": 13.44,
             "text": "his"
         },
         {
-            "id": 28,
             "start": 13.44,
             "end": 13.94,
             "text": "proposal"
         },
         {
-            "id": 29,
             "start": 14.139999,
             "end": 14.639999,
             "text": "to"
         },
         {
-            "id": 30,
             "start": 15.06,
             "end": 15.56,
             "text": "turn"
         },
         {
-            "id": 31,
             "start": 15.58,
             "end": 15.86,
             "text": "all"
         },
         {
-            "id": 32,
             "start": 15.86,
-            "end": 16.0,
+            "end": 16,
             "text": "the"
         },
         {
-            "id": 33,
-            "start": 16.0,
+            "start": 16,
             "end": 16.4,
             "text": "things"
         },
         {
-            "id": 34,
             "start": 16.4,
             "end": 16.72,
             "text": "back"
         },
         {
-            "id": 35,
             "start": 16.72,
             "end": 17.22,
             "text": "on"
         },
         {
-            "id": 36,
             "start": 17.32,
             "end": 17.6,
             "text": "just"
         },
         {
-            "id": 37,
             "start": 17.6,
             "end": 17.86,
             "text": "with"
         },
         {
-            "id": 38,
             "start": 17.86,
             "end": 18.36,
             "text": "the"
         },
         {
-            "id": 39,
             "start": 19.06,
             "end": 19.3,
             "text": "kind"
         },
         {
-            "id": 40,
             "start": 19.3,
             "end": 19.5,
             "text": "of"
         },
         {
-            "id": 41,
             "start": 19.5,
-            "end": 20.0,
-            "text": "VerOps"
+            "end": 20,
+            "text": "fsdf"
         },
         {
-            "id": 42,
             "start": 20.279999,
             "end": 20.779999,
             "text": "budget"
         },
         {
-            "id": 43,
             "start": 21.26,
             "end": 21.76,
             "text": "analogous"
         },
         {
-            "id": 44,
             "start": 21.779999,
             "end": 22.279999,
             "text": "to"
         },
         {
-            "id": 45,
             "start": 22.34,
             "end": 22.58,
             "text": "the"
         },
         {
-            "id": 46,
             "start": 22.58,
             "end": 23.08,
             "text": "SigOps"
         },
         {
-            "id": 47,
             "start": 23.099998,
             "end": 23.48,
             "text": "budget"
         },
         {
-            "id": 48,
             "start": 23.48,
             "end": 23.68,
             "text": "to"
         },
         {
-            "id": 49,
             "start": 23.68,
             "end": 23.880001,
             "text": "kind"
         },
         {
-            "id": 50,
             "start": 23.880001,
             "end": 24.06,
             "text": "of"
         },
         {
-            "id": 51,
             "start": 24.06,
             "end": 24.52,
             "text": "rein"
         },
         {
-            "id": 52,
             "start": 24.52,
             "end": 25.02,
             "text": "in"
         },
         {
-            "id": 53,
             "start": 25.24,
             "end": 25.4,
             "text": "the"
         },
         {
-            "id": 54,
             "start": 25.4,
             "end": 25.9,
             "text": "denial"
         },
         {
-            "id": 55,
             "start": 25.92,
             "end": 26.099998,
             "text": "of"
         },
         {
-            "id": 56,
             "start": 26.099998,
             "end": 26.52,
             "text": "service"
         },
         {
-            "id": 57,
             "start": 26.52,
             "end": 27.02,
             "text": "risks"
         },
         {
-            "id": 58,
             "start": 27.04,
             "end": 27.279999,
             "text": "as"
         },
         {
-            "id": 59,
             "start": 27.279999,
             "end": 27.779999,
             "text": "just"
         },
         {
-            "id": 60,
             "start": 28.36,
             "end": 28.58,
             "text": "a"
         },
         {
-            "id": 61,
             "start": 28.58,
             "end": 28.939999,
             "text": "path"
         },
         {
-            "id": 62,
             "start": 28.939999,
             "end": 29.439999,
             "text": "forward"
         },
         {
-            "id": 63,
             "start": 29.759998,
             "end": 30.16,
             "text": "given"
         },
         {
-            "id": 64,
             "start": 30.16,
             "end": 30.32,
             "text": "that"
         },
         {
-            "id": 65,
             "start": 30.32,
             "end": 30.82,
             "text": "everybody's"
         },
         {
-            "id": 66,
             "start": 31.24,
             "end": 31.64,
             "text": "spent"
         },
         {
-            "id": 67,
             "start": 31.64,
             "end": 31.8,
             "text": "the"
         },
         {
-            "id": 68,
             "start": 31.8,
             "end": 32.08,
             "text": "last"
         },
         {
-            "id": 69,
             "start": 32.08,
             "end": 32.2,
             "text": "few"
         },
         {
-            "id": 70,
             "start": 32.2,
             "end": 32.64,
             "text": "years"
         },
         {
-            "id": 71,
             "start": 32.64,
             "end": 33.14,
             "text": "fighting"
         },
         {
-            "id": 72,
             "start": 33.22,
             "end": 33.48,
             "text": "over"
         },
         {
-            "id": 73,
             "start": 33.48,
             "end": 33.98,
             "text": "their"
         },
         {
-            "id": 74,
             "start": 34.44,
             "end": 34.92,
             "text": "narrow"
         },
         {
-            "id": 75,
             "start": 34.92,
             "end": 35.239998,
             "text": "little"
         },
         {
-            "id": 76,
             "start": 35.239998,
             "end": 35.64,
             "text": "change"
         },
         {
-            "id": 77,
             "start": 35.64,
             "end": 35.82,
             "text": "they"
         },
         {
-            "id": 78,
             "start": 35.82,
             "end": 36.04,
             "text": "want"
         },
         {
-            "id": 79,
             "start": 36.04,
             "end": 36.16,
             "text": "to"
         },
         {
-            "id": 80,
             "start": 36.16,
             "end": 36.38,
             "text": "get"
         },
         {
-            "id": 81,
             "start": 36.38,
             "end": 36.88,
             "text": "in."
         },
         {
-            "id": 82,
             "start": 37.64,
             "end": 37.88,
             "text": "How"
         },
         {
-            "id": 83,
             "start": 37.88,
             "end": 38.04,
             "text": "do"
         },
         {
-            "id": 84,
             "start": 38.04,
             "end": 38.239998,
             "text": "you"
         },
         {
-            "id": 85,
             "start": 38.239998,
             "end": 38.739998,
             "text": "feel"
         },
         {
-            "id": 86,
             "start": 38.86,
             "end": 39.36,
             "text": "about"
         },
         {
-            "id": 87,
             "start": 39.58,
             "end": 40.08,
             "text": "this"
         },
         {
-            "id": 88,
             "start": 40.28,
             "end": 40.78,
             "text": "potentially"
         },
         {
-            "id": 89,
             "start": 41.059998,
             "end": 41.28,
             "text": "as"
         },
         {
-            "id": 90,
             "start": 41.28,
             "end": 41.42,
             "text": "a"
         },
         {
-            "id": 91,
             "start": 41.42,
             "end": 41.739998,
             "text": "path"
         },
         {
-            "id": 92,
             "start": 41.739998,
             "end": 42.04,
             "text": "moving"
         },
         {
-            "id": 93,
             "start": 42.04,
             "end": 42.54,
             "text": "forward?"
@@ -597,12 +522,12 @@
         {
             "id": 99,
             "start": 45.6,
-            "end": 46.0,
+            "end": 46,
             "text": "Rusty"
         },
         {
             "id": 100,
-            "start": 46.0,
+            "start": 46,
             "end": 46.5,
             "text": "proposed"
         },
@@ -747,7 +672,7 @@
         {
             "id": 124,
             "start": 56.5,
-            "end": 57.0,
+            "end": 57,
             "text": "already"
         },
         {
@@ -879,12 +804,12 @@
         {
             "id": 146,
             "start": 70.84,
-            "end": 71.0,
+            "end": 71,
             "text": "we"
         },
         {
             "id": 147,
-            "start": 71.0,
+            "start": 71,
             "end": 71.16,
             "text": "have"
         },
@@ -1059,12 +984,12 @@
         {
             "id": 176,
             "start": 82.72,
-            "end": 83.0,
+            "end": 83,
             "text": "want,"
         },
         {
             "id": 177,
-            "start": 83.0,
+            "start": 83,
             "end": 83.5,
             "text": "or"
         },
@@ -1263,12 +1188,12 @@
         {
             "id": 210,
             "start": 97.68,
-            "end": 98.0,
+            "end": 98,
             "text": "always"
         },
         {
             "id": 211,
-            "start": 98.0,
+            "start": 98,
             "end": 98.16,
             "text": "the"
         },
@@ -1407,7 +1332,7 @@
         {
             "id": 234,
             "start": 106.5,
-            "end": 107.0,
+            "end": 107,
             "text": "fork"
         },
         {
@@ -1527,12 +1452,12 @@
         {
             "id": 254,
             "start": 112.78,
-            "end": 113.0,
+            "end": 113,
             "text": "for"
         },
         {
             "id": 255,
-            "start": 113.0,
+            "start": 113,
             "end": 113.5,
             "text": "ourselves"
         },
@@ -1653,12 +1578,12 @@
         {
             "id": 275,
             "start": 125.66,
-            "end": 126.0,
+            "end": 126,
             "text": "since"
         },
         {
             "id": 276,
-            "start": 126.0,
+            "start": 126,
             "end": 126.5,
             "text": "nobody"
         },
@@ -1862,7 +1787,7 @@
         },
         {
             "id": 310,
-            "start": 140.0,
+            "start": 140,
             "end": 140.16,
             "text": "And"
         },
@@ -1899,12 +1824,12 @@
         {
             "id": 316,
             "start": 141.86,
-            "end": 142.0,
+            "end": 142,
             "text": "in"
         },
         {
             "id": 317,
-            "start": 142.0,
+            "start": 142,
             "end": 142.12,
             "text": "the"
         },
@@ -2013,12 +1938,12 @@
         {
             "id": 335,
             "start": 150.72,
-            "end": 151.0,
+            "end": 151,
             "text": "yeah,"
         },
         {
             "id": 336,
-            "start": 151.0,
+            "start": 151,
             "end": 151.36,
             "text": "that's"
         },
@@ -2031,12 +1956,12 @@
         {
             "id": 338,
             "start": 151.72,
-            "end": 152.0,
+            "end": 152,
             "text": "or"
         },
         {
             "id": 339,
-            "start": 152.0,
+            "start": 152,
             "end": 152.2,
             "text": "it"
         },
@@ -2474,7 +2399,7 @@
         },
         {
             "id": 412,
-            "start": 188.0,
+            "start": 188,
             "end": 188.5,
             "text": "we"
         },
@@ -2751,12 +2676,12 @@
         {
             "id": 458,
             "start": 210.72,
-            "end": 211.0,
+            "end": 211,
             "text": "because"
         },
         {
             "id": 459,
-            "start": 211.0,
+            "start": 211,
             "end": 211.12,
             "text": "you"
         },
@@ -2835,12 +2760,12 @@
         {
             "id": 472,
             "start": 216.82,
-            "end": 217.0,
+            "end": 217,
             "text": "give"
         },
         {
             "id": 473,
-            "start": 217.0,
+            "start": 217,
             "end": 217.28,
             "text": "your"
         },
@@ -2871,12 +2796,12 @@
         {
             "id": 478,
             "start": 220.76,
-            "end": 221.0,
+            "end": 221,
             "text": "this"
         },
         {
             "id": 479,
-            "start": 221.0,
+            "start": 221,
             "end": 221.5,
             "text": "is,"
         },
@@ -2955,12 +2880,12 @@
         {
             "id": 492,
             "start": 228.74,
-            "end": 229.0,
+            "end": 229,
             "text": "like"
         },
         {
             "id": 493,
-            "start": 229.0,
+            "start": 229,
             "end": 229.5,
             "text": "something"
         },
@@ -3051,12 +2976,12 @@
         {
             "id": 508,
             "start": 235.84,
-            "end": 236.0,
+            "end": 236,
             "text": "of"
         },
         {
             "id": 509,
-            "start": 236.0,
+            "start": 236,
             "end": 236.24,
             "text": "us"
         },
@@ -3092,7 +3017,7 @@
         },
         {
             "id": 515,
-            "start": 241.0,
+            "start": 241,
             "end": 241.2,
             "text": "or"
         },
@@ -4106,7 +4031,7 @@
         },
         {
             "id": 684,
-            "start": 323.0,
+            "start": 323,
             "end": 323.5,
             "text": "by"
         },
@@ -5409,12 +5334,12 @@
         {
             "id": 901,
             "start": 427.8,
-            "end": 428.0,
+            "end": 428,
             "text": "are"
         },
         {
             "id": 902,
-            "start": 428.0,
+            "start": 428,
             "end": 428.38,
             "text": "pushing"
         },
@@ -5475,12 +5400,12 @@
         {
             "id": 912,
             "start": 430.64,
-            "end": 431.0,
+            "end": 431,
             "text": "good"
         },
         {
             "id": 913,
-            "start": 431.0,
+            "start": 431,
             "end": 431.26,
             "text": "thing"
         },
@@ -5571,12 +5496,12 @@
         {
             "id": 928,
             "start": 435.64,
-            "end": 436.0,
+            "end": 436,
             "text": "whatever"
         },
         {
             "id": 929,
-            "start": 436.0,
+            "start": 436,
             "end": 436.48,
             "text": "proposal"
         },
@@ -6351,12 +6276,12 @@
         {
             "id": 1058,
             "start": 486.82,
-            "end": 487.0,
+            "end": 487,
             "text": "an"
         },
         {
             "id": 1059,
-            "start": 487.0,
+            "start": 487,
             "end": 487.5,
             "text": "expert"
         },
@@ -6519,12 +6444,12 @@
         {
             "id": 1086,
             "start": 500.76,
-            "end": 501.0,
+            "end": 501,
             "text": "up"
         },
         {
             "id": 1087,
-            "start": 501.0,
+            "start": 501,
             "end": 501.5,
             "text": "their"
         },
@@ -6674,7 +6599,7 @@
         },
         {
             "id": 1112,
-            "start": 513.0,
+            "start": 513,
             "end": 513.44,
             "text": "image"
         },
@@ -6981,12 +6906,12 @@
         {
             "id": 1163,
             "start": 532.82,
-            "end": 533.0,
+            "end": 533,
             "text": "an"
         },
         {
             "id": 1164,
-            "start": 533.0,
+            "start": 533,
             "end": 533.5,
             "text": "incentive"
         },
@@ -7341,12 +7266,12 @@
         {
             "id": 1223,
             "start": 562.82,
-            "end": 563.0,
+            "end": 563,
             "text": "to"
         },
         {
             "id": 1224,
-            "start": 563.0,
+            "start": 563,
             "end": 563.5,
             "text": "decide."
         },
@@ -7455,7 +7380,7 @@
         {
             "id": 1242,
             "start": 572.5,
-            "end": 573.0,
+            "end": 573,
             "text": "discuss"
         },
         {
@@ -7479,12 +7404,12 @@
         {
             "id": 1246,
             "start": 574.76,
-            "end": 575.0,
+            "end": 575,
             "text": "as"
         },
         {
             "id": 1247,
-            "start": 575.0,
+            "start": 575,
             "end": 575.14,
             "text": "I"
         },
@@ -7845,12 +7770,12 @@
         {
             "id": 1307,
             "start": 608.56,
-            "end": 609.0,
+            "end": 609,
             "text": "those"
         },
         {
             "id": 1308,
-            "start": 609.0,
+            "start": 609,
             "end": 609.5,
             "text": "down,"
         },
@@ -7995,7 +7920,7 @@
         {
             "id": 1332,
             "start": 620.5,
-            "end": 621.0,
+            "end": 621,
             "text": "discussion"
         },
         {
@@ -8042,7 +7967,7 @@
         },
         {
             "id": 1340,
-            "start": 624.0,
+            "start": 624,
             "end": 624.16,
             "text": "in"
         },
@@ -8403,7 +8328,7 @@
         {
             "id": 1400,
             "start": 651.5,
-            "end": 652.0,
+            "end": 652,
             "text": "years."
         },
         {
@@ -8427,12 +8352,12 @@
         {
             "id": 1404,
             "start": 652.76,
-            "end": 653.0,
+            "end": 653,
             "text": "lot"
         },
         {
             "id": 1405,
-            "start": 653.0,
+            "start": 653,
             "end": 653.16,
             "text": "of"
         },
@@ -8763,12 +8688,12 @@
         {
             "id": 1460,
             "start": 682.76,
-            "end": 683.0,
+            "end": 683,
             "text": "give"
         },
         {
             "id": 1461,
-            "start": 683.0,
+            "start": 683,
             "end": 683.16,
             "text": "them"
         },
@@ -8924,7 +8849,7 @@
         },
         {
             "id": 1487,
-            "start": 698.0,
+            "start": 698,
             "end": 698.2,
             "text": "So"
         },
@@ -9027,12 +8952,12 @@
         {
             "id": 1504,
             "start": 702.56,
-            "end": 703.0,
+            "end": 703,
             "text": "Christian."
         },
         {
             "id": 1505,
-            "start": 703.0,
+            "start": 703,
             "end": 703.26,
             "text": "Hey,"
         },
@@ -9111,119 +9036,96 @@
     ],
     "paragraphs": [
         {
-            "id": 0,
-            "start": 0.0,
-            "end": 6.92,
             "speaker": "Speaker 0",
+            "start": 1.06,
+            "end": 6.92,
             "chapter": "Introduction and Rusty's Proposal"
         },
         {
-            "id": 1,
-            "start": 7.58,
-            "end": 8.219999,
             "speaker": "Speaker 1",
-            "chapter": null
+            "start": 7.58,
+            "end": 8.219999
         },
         {
-            "id": 2,
-            "start": 8.4,
-            "end": 42.54,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 8.4,
+            "end": 42.54
         },
         {
-            "id": 3,
+            "speaker": "Speaker 1",
             "start": 43.68,
-            "end": 86.74,
-            "speaker": "Speaker 1"
+            "end": 86.7
         },
         {
-            "id": 4,
+            "speaker": "Speaker 1",
             "start": 86.74,
             "end": 183.9,
-            "speaker": "Speaker 1",
             "chapter": "Challenges in Bitcoin Development"
         },
         {
-            "id": 5,
-            "start": 183.9,
-            "end": 304.84,
             "speaker": "Speaker 1",
+            "start": 184.04,
+            "end": 304.84,
             "chapter": "The Need for Honest Dialogue and Cooperation"
         },
         {
-            "id": 6,
-            "start": 304.84,
-            "end": 391.24,
             "speaker": "Speaker 1",
+            "start": 305.46,
+            "end": 391.24,
             "chapter": "Restoring Early Bitcoin Script Functionalities"
         },
         {
-            "id": 7,
+            "speaker": "Speaker 0",
             "start": 392.86,
-            "end": 437.62,
-            "speaker": "Speaker 0"
+            "end": 437.62
         },
         {
-            "id": 8,
-            "start": 437.62,
-            "end": 480.18,
             "speaker": "Speaker 0",
+            "start": 437.88,
+            "end": 480.18,
             "chapter": "The Impact of Enabling Diverse Tools"
         },
         {
-            "id": 9,
+            "speaker": "Speaker 1",
             "start": 480.3,
-            "end": 531.42,
-            "speaker": "Speaker 1"
+            "end": 531.14
         },
         {
-            "id": 10,
+            "speaker": "Speaker 1",
             "start": 531.42,
             "end": 627.2,
-            "speaker": "Speaker 1",
             "chapter": "Moving Away from Propaganda and Infighting"
         },
         {
-            "id": 11,
-            "start": 628.78,
-            "end": 640.54,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 628.78,
+            "end": 640.54
         },
         {
-            "id": 12,
-            "start": 641.06,
-            "end": 652.0,
-            "speaker": "Speaker 1"
-        },
-        {
-            "id": 13,
-            "start": 652.0,
-            "end": 699.22,
             "speaker": "Speaker 1",
+            "start": 641.06,
+            "end": 652
+        },
+        {
+            "speaker": "Speaker 1",
+            "start": 652.28,
+            "end": 699.22,
             "chapter": "Final Thoughts and Future Prospects"
         },
         {
-            "id": 14,
+            "speaker": "Speaker 0",
             "start": 699.96,
-            "end": 703.0,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 703
         },
         {
-            "id": 15,
-            "start": 703.0,
-            "end": 704.52,
             "speaker": "Speaker 1",
-            "chapter": null
+            "start": 703,
+            "end": 704.52
         },
         {
-            "id": 16,
-            "start": 704.88,
-            "end": 706.62,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 704.88,
+            "end": 706.62
         }
     ]
 }

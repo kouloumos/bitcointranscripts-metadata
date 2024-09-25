@@ -1,0 +1,74 @@
+{
+    "type": "video",
+    "loc": "bitcoin-magazine",
+    "source_file": "https://www.youtube.com/watch?v=NrrD6ufaSrM",
+    "media": "https://www.youtube.com/watch?v=NrrD6ufaSrM",
+    "title": "The Politics of Bitcoin Development",
+    "categories": [],
+    "tags": [],
+    "speakers": [
+        "Christian Decker"
+    ],
+    "description": "In this interview from BTC++ in Austin, Shinobi sits down with Christian Decker from Blockstream to look into the near-future of Bitcoin development. Following Rusty's groundbreaking proposal to enhance Bitcoin's functionality, Christian shares his thoughts on the potential impact and the path forward.\n\nJoin us as we discuss:\n\n*Rusty's proposal and its implications for the Bitcoin network\n*The challenges and frustrations faced by Bitcoin developers\n*The importance of restoring early Bitcoin script functionalities\n*How enabling diverse tools can drive innovation and optimization\n*The need for honest dialogue and cooperation within the Bitcoin community\n*Christian Decker highlights the significance of moving away from propaganda and infighting *towards a more collaborative and engineering-focused approach to Bitcoin development. Whether *you're a developer, an enthusiast, or just curious about the future of Bitcoin, this interview offers *valuable insights into the ongoing evolution of the world's leading cryptocurrency.\n\nTimestamps:\n0:00 Introduction and Rusty's Proposal\n1:30 Challenges in Bitcoin Development\n3:00 The Need for Honest Dialogue and Cooperation\n5:00 Restoring Early Bitcoin Script Functionalities\n7:00 The Impact of Enabling Diverse Tools\n9:00 Moving Away from Propaganda and Infighting\n10:50 Final Thoughts and Future Prospects",
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Introduction and Rusty's Proposal"
+        ],
+        [
+            "1",
+            90.0,
+            "Challenges in Bitcoin Development"
+        ],
+        [
+            "2",
+            180.0,
+            "The Need for Honest Dialogue and Cooperation"
+        ],
+        [
+            "3",
+            300.0,
+            "Restoring Early Bitcoin Script Functionalities"
+        ],
+        [
+            "4",
+            420.0,
+            "The Impact of Enabling Diverse Tools"
+        ],
+        [
+            "5",
+            540.0,
+            "Moving Away from Propaganda and Infighting"
+        ],
+        [
+            "6",
+            650.0,
+            "Final Thoughts and Future Prospects"
+        ]
+    ],
+    "date": "2024-06-11",
+    "youtube": {
+        "description": "In this interview from BTC++ in Austin, Shinobi sits down with Christian Decker from Blockstream to look into the near-future of Bitcoin development. Following Rusty's groundbreaking proposal to enhance Bitcoin's functionality, Christian shares his thoughts on the potential impact and the path forward.\n\nJoin us as we discuss:\n\n*Rusty's proposal and its implications for the Bitcoin network\n*The challenges and frustrations faced by Bitcoin developers\n*The importance of restoring early Bitcoin script functionalities\n*How enabling diverse tools can drive innovation and optimization\n*The need for honest dialogue and cooperation within the Bitcoin community\n*Christian Decker highlights the significance of moving away from propaganda and infighting *towards a more collaborative and engineering-focused approach to Bitcoin development. Whether *you're a developer, an enthusiast, or just curious about the future of Bitcoin, this interview offers *valuable insights into the ongoing evolution of the world's leading cryptocurrency.\n\nTimestamps:\n0:00 Introduction and Rusty's Proposal\n1:30 Challenges in Bitcoin Development\n3:00 The Need for Honest Dialogue and Cooperation\n5:00 Restoring Early Bitcoin Script Functionalities\n7:00 The Impact of Enabling Diverse Tools\n9:00 Moving Away from Propaganda and Infighting\n10:50 Final Thoughts and Future Prospects",
+        "tags": [
+            "bitcoin magazine",
+            "Bitcoin News",
+            "Bitcoin Price",
+            "Bitcoin Journalism",
+            "Bitcoin Culture",
+            "Bitcoiners",
+            "Bitcoin Talk",
+            "Cryptocurrency",
+            "Stacking Sats",
+            "Satoshi",
+            "Bitcoin History",
+            "developer",
+            "politics",
+            "bitcoin development"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2024-08-22T171930Z.json"
+}

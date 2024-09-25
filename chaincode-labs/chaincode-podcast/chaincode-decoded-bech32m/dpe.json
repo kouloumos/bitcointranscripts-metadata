@@ -56,7 +56,7 @@
         },
         {
             "id": 9,
-            "start": 9.0,
+            "start": 9,
             "end": 9.5,
             "text": "podcast."
         },
@@ -88,7 +88,7 @@
             "id": 14,
             "start": 10.139999,
             "end": 10.599999,
-            "text": "Merch."
+            "text": "Murch."
         },
         {
             "id": 15,
@@ -351,12 +351,12 @@
         {
             "id": 58,
             "start": 23.52,
-            "end": 24.0,
+            "end": 24,
             "text": "Bitcoin"
         },
         {
             "id": 59,
-            "start": 24.0,
+            "start": 24,
             "end": 24.5,
             "text": "fundamentals."
         },
@@ -705,12 +705,12 @@
         {
             "id": 117,
             "start": 47.56,
-            "end": 48.0,
+            "end": 48,
             "text": "other"
         },
         {
             "id": 118,
-            "start": 48.0,
+            "start": 48,
             "end": 48.5,
             "text": "pronunciations"
         },
@@ -783,7 +783,7 @@
         {
             "id": 130,
             "start": 53.5,
-            "end": 54.0,
+            "end": 54,
             "text": "Okay."
         },
         {
@@ -1833,12 +1833,12 @@
         {
             "id": 305,
             "start": 125.76,
-            "end": 126.0,
+            "end": 126,
             "text": "but"
         },
         {
             "id": 306,
-            "start": 126.0,
+            "start": 126,
             "end": 126.26,
             "text": "mixed"
         },
@@ -2211,7 +2211,7 @@
         {
             "id": 368,
             "start": 151.5,
-            "end": 152.0,
+            "end": 152,
             "text": "L"
         },
         {
@@ -2439,12 +2439,12 @@
         {
             "id": 406,
             "start": 168.72,
-            "end": 169.0,
+            "end": 169,
             "text": "just"
         },
         {
             "id": 407,
-            "start": 169.0,
+            "start": 169,
             "end": 169.28,
             "text": "to"
         },
@@ -2493,7 +2493,7 @@
         {
             "id": 415,
             "start": 172.5,
-            "end": 173.0,
+            "end": 173,
             "text": "explicitly"
         },
         {
@@ -2859,12 +2859,12 @@
         {
             "id": 476,
             "start": 197.72,
-            "end": 198.0,
+            "end": 198,
             "text": "actually"
         },
         {
             "id": 477,
-            "start": 198.0,
+            "start": 198,
             "end": 198.16,
             "text": "want"
         },
@@ -2985,12 +2985,12 @@
         {
             "id": 497,
             "start": 202.72,
-            "end": 203.0,
+            "end": 203,
             "text": "What's"
         },
         {
             "id": 498,
-            "start": 203.0,
+            "start": 203,
             "end": 203.16,
             "text": "the"
         },
@@ -3603,12 +3603,12 @@
         {
             "id": 600,
             "start": 244.84,
-            "end": 245.0,
+            "end": 245,
             "text": "up"
         },
         {
             "id": 601,
-            "start": 245.0,
+            "start": 245,
             "end": 245.34,
             "text": "because"
         },
@@ -3812,7 +3812,7 @@
         },
         {
             "id": 635,
-            "start": 259.0,
+            "start": 259,
             "end": 259.22,
             "text": "of"
         },
@@ -3831,12 +3831,12 @@
         {
             "id": 638,
             "start": 260.6,
-            "end": 261.0,
+            "end": 261,
             "text": "address"
         },
         {
             "id": 639,
-            "start": 261.0,
+            "start": 261,
             "end": 261.5,
             "text": "format"
         },
@@ -3950,7 +3950,7 @@
         },
         {
             "id": 658,
-            "start": 271.0,
+            "start": 271,
             "end": 271.48,
             "text": "introduced"
         },
@@ -4215,12 +4215,12 @@
         {
             "id": 702,
             "start": 291.6,
-            "end": 292.0,
+            "end": 292,
             "text": "different"
         },
         {
             "id": 703,
-            "start": 292.0,
+            "start": 292,
             "end": 292.28,
             "text": "new"
         },
@@ -4431,7 +4431,7 @@
         {
             "id": 738,
             "start": 307.5,
-            "end": 308.0,
+            "end": 308,
             "text": "script"
         },
         {
@@ -4839,7 +4839,7 @@
         {
             "id": 806,
             "start": 336.5,
-            "end": 337.0,
+            "end": 337,
             "text": "basically,"
         },
         {
@@ -6111,12 +6111,12 @@
         {
             "id": 1018,
             "start": 425.6,
-            "end": 426.0,
+            "end": 426,
             "text": "0"
         },
         {
             "id": 1019,
-            "start": 426.0,
+            "start": 426,
             "end": 426.3,
             "text": "through"
         },
@@ -6681,12 +6681,12 @@
         {
             "id": 1113,
             "start": 457.66,
-            "end": 458.0,
+            "end": 458,
             "text": "able"
         },
         {
             "id": 1114,
-            "start": 458.0,
+            "start": 458,
             "end": 458.2,
             "text": "to"
         },
@@ -6843,12 +6843,12 @@
         {
             "id": 1140,
             "start": 470.64,
-            "end": 471.0,
+            "end": 471,
             "text": "ready"
         },
         {
             "id": 1141,
-            "start": 471.0,
+            "start": 471,
             "end": 471.38,
             "text": "to"
         },
@@ -6891,12 +6891,12 @@
         {
             "id": 1148,
             "start": 473.6,
-            "end": 474.0,
+            "end": 474,
             "text": "native"
         },
         {
             "id": 1149,
-            "start": 474.0,
+            "start": 474,
             "end": 474.5,
             "text": "SegWit"
         },
@@ -7173,12 +7173,12 @@
         {
             "id": 1195,
             "start": 495.78,
-            "end": 496.0,
+            "end": 496,
             "text": "they"
         },
         {
             "id": 1196,
-            "start": 496.0,
+            "start": 496,
             "end": 496.3,
             "text": "found"
         },
@@ -7923,7 +7923,7 @@
         {
             "id": 1320,
             "start": 545.5,
-            "end": 546.0,
+            "end": 546,
             "text": "Like,"
         },
         {
@@ -7953,12 +7953,12 @@
         {
             "id": 1325,
             "start": 546.58,
-            "end": 547.0,
+            "end": 547,
             "text": "protocol"
         },
         {
             "id": 1326,
-            "start": 547.0,
+            "start": 547,
             "end": 547.5,
             "text": "issue?"
         },
@@ -8451,12 +8451,12 @@
         {
             "id": 1408,
             "start": 577.9,
-            "end": 578.0,
+            "end": 578,
             "text": "a"
         },
         {
             "id": 1409,
-            "start": 578.0,
+            "start": 578,
             "end": 578.24,
             "text": "lot"
         },
@@ -8511,12 +8511,12 @@
         {
             "id": 1418,
             "start": 580.6,
-            "end": 581.0,
+            "end": 581,
             "text": "minor"
         },
         {
             "id": 1419,
-            "start": 581.0,
+            "start": 581,
             "end": 581.44,
             "text": "changes"
         },
@@ -9590,7 +9590,7 @@
         },
         {
             "id": 1598,
-            "start": 652.0,
+            "start": 652,
             "end": 652.16,
             "text": "to"
         },
@@ -9633,12 +9633,12 @@
         {
             "id": 1605,
             "start": 655.76,
-            "end": 656.0,
+            "end": 656,
             "text": "a"
         },
         {
             "id": 1606,
-            "start": 656.0,
+            "start": 656,
             "end": 656.5,
             "text": "valid"
         },
@@ -9723,12 +9723,12 @@
         {
             "id": 1620,
             "start": 662.78,
-            "end": 663.0,
+            "end": 663,
             "text": "but"
         },
         {
             "id": 1621,
-            "start": 663.0,
+            "start": 663,
             "end": 663.16,
             "text": "it"
         },
@@ -10190,7 +10190,7 @@
         },
         {
             "id": 1698,
-            "start": 694.0,
+            "start": 694,
             "end": 694.4,
             "text": "set,"
         },
@@ -10401,12 +10401,12 @@
         {
             "id": 1733,
             "start": 711.6,
-            "end": 712.0,
+            "end": 712,
             "text": "using"
         },
         {
             "id": 1734,
-            "start": 712.0,
+            "start": 712,
             "end": 712.2,
             "text": "a"
         },
@@ -10617,12 +10617,12 @@
         {
             "id": 1769,
             "start": 728.8,
-            "end": 729.0,
+            "end": 729,
             "text": "And"
         },
         {
             "id": 1770,
-            "start": 729.0,
+            "start": 729,
             "end": 729.32,
             "text": "the"
         },
@@ -10899,7 +10899,7 @@
         {
             "id": 1816,
             "start": 751.5,
-            "end": 752.0,
+            "end": 752,
             "text": "something"
         },
         {
@@ -11535,12 +11535,12 @@
         {
             "id": 1922,
             "start": 788.54,
-            "end": 789.0,
+            "end": 789,
             "text": "continue"
         },
         {
             "id": 1923,
-            "start": 789.0,
+            "start": 789,
             "end": 789.14,
             "text": "to"
         },
@@ -12153,12 +12153,12 @@
         {
             "id": 2025,
             "start": 834.78,
-            "end": 835.0,
+            "end": 835,
             "text": "should"
         },
         {
             "id": 2026,
-            "start": 835.0,
+            "start": 835,
             "end": 835.14,
             "text": "be"
         },
@@ -12609,12 +12609,12 @@
         {
             "id": 2101,
             "start": 858.52,
-            "end": 859.0,
+            "end": 859,
             "text": "addresses"
         },
         {
             "id": 2102,
-            "start": 859.0,
+            "start": 859,
             "end": 859.3,
             "text": "yet"
         },
@@ -13059,205 +13059,154 @@
     ],
     "paragraphs": [
         {
-            "id": 0,
+            "speaker": "Speaker 0",
             "start": 0.17999999,
-            "end": 16.4,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 16.4
         },
         {
-            "id": 1,
+            "speaker": "Speaker 1",
             "start": 16.4,
-            "end": 17.08,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 17.08
         },
         {
-            "id": 2,
+            "speaker": "Speaker 0",
             "start": 17.08,
-            "end": 41.62,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 41.62
         },
         {
-            "id": 3,
+            "speaker": "Speaker 1",
             "start": 41.98,
-            "end": 53.3,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 53.3
         },
         {
-            "id": 4,
+            "speaker": "Speaker 0",
             "start": 53.5,
-            "end": 57.18,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 57.18
         },
         {
-            "id": 5,
+            "speaker": "Speaker 1",
             "start": 57.18,
-            "end": 79.28,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 79.28
         },
         {
-            "id": 6,
+            "speaker": "Speaker 0",
             "start": 79.28,
-            "end": 82.24,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 82.24
         },
         {
-            "id": 7,
-            "start": 82.24,
-            "end": 128.1,
             "speaker": "Speaker 1",
-            "chapter": null
+            "start": 82.24,
+            "end": 128.1
         },
         {
-            "id": 8,
-            "start": 128.52,
-            "end": 136.94,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 128.52,
+            "end": 136.94
         },
         {
-            "id": 9,
+            "speaker": "Speaker 1",
             "start": 137.4,
             "end": 143.92,
-            "speaker": "Speaker 1",
             "chapter": "Correction: The characters removed from the set are 1 B I O"
         },
         {
-            "id": 10,
-            "start": 144.34,
-            "end": 148.58,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 144.34,
+            "end": 148.58
         },
         {
-            "id": 11,
-            "start": 148.58,
-            "end": 199.42,
             "speaker": "Speaker 1",
-            "chapter": null
+            "start": 148.58,
+            "end": 199.42
         },
         {
-            "id": 12,
+            "speaker": "Speaker 0",
             "start": 199.62,
-            "end": 199.9,
-            "speaker": "Speaker 0"
+            "end": 199.9
         },
         {
-            "id": 13,
+            "speaker": "Speaker 0",
             "start": 199.9,
             "end": 206.14,
-            "speaker": "Speaker 0",
             "chapter": "What is the distinction between Bech32 and native SegWit?"
         },
         {
-            "id": 14,
+            "speaker": "Speaker 1",
             "start": 206.18,
-            "end": 250.7,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 250.7
         },
         {
-            "id": 15,
-            "start": 251.06,
-            "end": 253.72,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 251.06,
+            "end": 253.72
         },
         {
-            "id": 16,
-            "start": 253.72,
-            "end": 542.38,
             "speaker": "Speaker 1",
+            "start": 253.78,
+            "end": 542.38,
             "chapter": "Why does Taproot need a new address format?"
         },
         {
-            "id": 17,
+            "speaker": "Speaker 0",
             "start": 542.72,
-            "end": 547.5,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 547.5
         },
         {
-            "id": 18,
+            "speaker": "Speaker 1",
             "start": 547.82,
-            "end": 606.58,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 606.58
         },
         {
-            "id": 19,
-            "start": 606.58,
-            "end": 613.18,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 606.58,
+            "end": 613.18
         },
         {
-            "id": 20,
-            "start": 614.18,
-            "end": 686.18,
-            "speaker": "Speaker 1"
-        },
-        {
-            "id": 21,
-            "start": 686.18,
-            "end": 745.0,
             "speaker": "Speaker 1",
+            "start": 614.18,
+            "end": 686.18
+        },
+        {
+            "speaker": "Speaker 1",
+            "start": 687.26,
+            "end": 744.22,
             "chapter": "Bech32 length extension mutation weakness"
         },
         {
-            "id": 22,
-            "start": 745.0,
-            "end": 781.92,
             "speaker": "Speaker 1",
+            "start": 745.02,
+            "end": 781.92,
             "chapter": "Bech32m"
         },
         {
-            "id": 23,
+            "speaker": "Speaker 0",
             "start": 781.92,
-            "end": 786.18,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 786.18
         },
         {
-            "id": 24,
+            "speaker": "Speaker 1",
             "start": 786.74,
-            "end": 860.88,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 860.88
         },
         {
-            "id": 25,
+            "speaker": "Speaker 0",
             "start": 862.84,
-            "end": 869.06,
-            "speaker": "Speaker 0",
-            "chapter": null
+            "end": 869.06
         },
         {
-            "id": 26,
+            "speaker": "Speaker 1",
             "start": 869.06,
-            "end": 873.58,
-            "speaker": "Speaker 1",
-            "chapter": null
+            "end": 873.58
         },
         {
-            "id": 27,
-            "start": 873.6,
-            "end": 876.38,
             "speaker": "Speaker 0",
-            "chapter": null
+            "start": 873.6,
+            "end": 876.38
         },
         {
-            "id": 28,
-            "start": 876.38,
-            "end": 879.36,
             "speaker": "Speaker 1",
-            "chapter": null
+            "start": 876.38,
+            "end": 879.36
         }
     ]
 }
